@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D1179D05-4000-1E0D-D95A-89856988466C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WebSocketTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
